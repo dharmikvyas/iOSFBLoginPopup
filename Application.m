@@ -1,9 +1,9 @@
 //
 //  Application.m
-//  babaa
+//  Dharmik Vyas
 //
 //  Created by My Mac on 6/15/15.
-//  Copyright (c) 2015 BABAA. All rights reserved.
+//  Copyright (c) 2015 Dharmik Vyas. All rights reserved.
 //
 
 #import "Application.h"
